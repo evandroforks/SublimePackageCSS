@@ -2,11 +2,13 @@
 <plist version="1.0">
 <dict>
 	<key>scope</key>
-	<string>source.css meta.selector</string>
+	<string>
+		source.css variable.other.custom-property
+	</string>
 	<key>settings</key>
 	<dict>
-		<key>cancelCompletion</key>
-		<string>.*</string>
+		<key>showInIndexedReferenceList</key>
+		<string>1</string>
 	</dict>
 </dict>
 </plist>
